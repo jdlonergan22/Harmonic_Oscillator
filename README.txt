@@ -10,6 +10,8 @@ Adjustable parameters:
 Note energy and displacement at each step are stored in the pandas dataframe titled "df"
     
 Wavenumber is the spacial frequency of a wave measured in cycles/unit distance. For example 350cm^-1 means wave completes 1 cycle/350cm
+Wavenumber found on this website: https://www.chem.purdue.edu/gchelp/vibs/h2.html
+
 
 To calculate the change in energy from the equilibrium position, measure E = 0.5 * k * L^2 where k is the bond force constant and L is the displacement from the equilibrium position. 
 
